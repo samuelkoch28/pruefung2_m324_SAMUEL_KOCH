@@ -1,0 +1,1 @@
+Der Super-Linter überprüft den Code auf Formatierung für viele verschiedene Programmiersprachen.
